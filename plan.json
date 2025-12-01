@@ -1,0 +1,60 @@
+{
+  "weekPlan": {
+    "monday": {
+      "emoji": "🍑",
+      "title": "Booty + Legs",
+      "duration": "20 min",
+      "instructor": "MadFit",
+      "url": "https://www.youtube.com/watch?v=sm_kdGTK8E0",
+      "note": "Soft start into the week, focus on glutes and legs."
+    },
+    "tuesday": {
+      "emoji": "✨",
+      "title": "Core (Abs Focus)",
+      "duration": "10 min",
+      "instructor": "Pamela Reif",
+      "url": "https://www.youtube.com/watch?v=AnYl6Nk9GOA",
+      "note": "Short but spicy abs session, no equipment needed."
+    },
+    "wednesday": {
+      "emoji": "🌿",
+      "title": "Full Body Stretch",
+      "duration": "12 min",
+      "instructor": "MadFit",
+      "url": "https://www.youtube.com/watch?v=itJE4neqDJw",
+      "note": "Gentle full-body stretch to reset and recover."
+    },
+    "thursday": {
+      "emoji": "🌸",
+      "title": "Upper Body (Back + Arms)",
+      "duration": "20 min",
+      "instructor": "MadFit",
+      "url": "https://www.youtube.com/watch?v=_JPsAGc3M7U",
+      "note": "Improve posture and tone your back and arms."
+    },
+    "friday": {
+      "emoji": "⚡",
+      "title": "Full Body Low Impact HIIT",
+      "duration": "30 min",
+      "instructor": "Growingannanas",
+      "url": "https://www.youtube.com/watch?v=LIQfm-Zn81I",
+      "note": "Sweaty but joint-friendly, no-jump full body burn."
+    },
+    "saturday": {
+      "emoji": "☁️",
+      "title": "Light Movement / Morning Stretch",
+      "duration": "10 min",
+      "instructor": "MadFit",
+      "url": "https://www.youtube.com/watch?v=pjreplZXHMA",
+      "note": "Soft morning stretch to wake up your body."
+    },
+    "sunday": {
+      "emoji": "🧘‍♀️",
+      "title": "Full Rest",
+      "duration": "0 min",
+      "instructor": "",
+      "url": "",
+      "note": "Full rest day. Your muscles grow while you chill."
+    }
+  }
+}
